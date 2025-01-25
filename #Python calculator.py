@@ -11,7 +11,7 @@ elif operation == "-":
     result = num1 - num2
 elif operation == "*":
     result = num1 * num2
-else:
+elif operation == "/":
     result = num1 / num2
 
 
