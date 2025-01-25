@@ -13,6 +13,8 @@ elif operation == "*":
     result = num1 * num2
 elif operation == "/":
     result = num1 / num2
+else:
+    print(f"{operationaa} not valid")
 
 
 print(f"The result is {result}")
